@@ -1,0 +1,49 @@
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="197.4px" height="377.3px" viewBox="0 0 197.4 377.3" style="enable-background:new 0 0 197.4 377.3;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#F5EDE1;}
+	.st2{fill:none;stroke:#999999;stroke-width:10;}
+	.st3{fill:#CC670C;}
+	.st4{fill:none;stroke:#999999;stroke-width:3;}
+	.st5{fill:#FF9239;}
+	.st6{fill:none;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{font-size:14px;}
+</style>
+<defs>
+</defs>
+<path class="st0" d="M173.4,376.3H24c-12.6,0-23-10.4-23-23V24C1,11.4,11.4,1,24,1h149.4c12.6,0,23,10.4,23,23v329.3
+	C196.4,365.9,186.1,376.3,173.4,376.3z"/>
+<path class="st1" d="M182.6,313H14.9c-2.2,0-4-1.8-4-4V61.1c0-2.2,1.8-4,4-4h167.7c2.2,0,4,1.8,4,4V309
+	C186.6,311.2,184.8,313,182.6,313z"/>
+<line class="st2" x1="104.9" y1="76.5" x2="119.4" y2="324.5"/>
+<path class="st2" d="M71.4,83c0,30.4-27.3,55-61,55"/>
+<path class="st2" d="M156.4,83c0,128.8-9.6,233-21.5,233"/>
+<path class="st2" d="M88.9,321c0-60.5-35.1-109.5-78.5-109.5"/>
+<path d="M189.9,59c0-2.8-2.2-5-5-5h-172c-2.8,0-5,2.2-5,5v268c0,2.8,2.2,5,5,5h172c2.8,0,5-2.2,5-5V59z M182.9,302h-169V60h169V302z
+	"/>
+<rect x="13.9" y="59.5" class="st3" width="169.5" height="27.5"/>
+<circle class="st4" cx="98.9" cy="353" r="11.8"/>
+<path class="st5" d="M172.9,83h-150c-2.2,0-4-1.8-4-4V69c0-2.2,1.8-4,4-4h150c2.2,0,4,1.8,4,4v10C176.9,81.2,175.1,83,172.9,83z"/>
+<path class="st1" d="M27.5,68.4c-2.5,0-4.5,2-4.5,4.5s2,4.5,4.5,4.5s4.5-2,4.5-4.5S30,68.4,27.5,68.4z M27.5,76.3
+	c-1.9,0-3.4-1.5-3.4-3.4s1.5-3.4,3.4-3.4s3.4,1.5,3.4,3.4S29.3,76.3,27.5,76.3z"/>
+<rect x="28.6" y="77.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 64.7429 0.3219)" class="st1" width="6.8" height="1.9"/>
+<path class="st1" d="M43.7,325H21.8c-2.2,0-4-1.8-4-4v-9.3c0-2.2,1.8-4,4-4h21.9c2.2,0,4,1.8,4,4v9.3C47.7,323.2,45.9,325,43.7,325z
+	"/>
+<path class="st1" d="M87.4,325H65.5c-2.2,0-4-1.8-4-4v-9.3c0-2.2,1.8-4,4-4h21.9c2.2,0,4,1.8,4,4v9.3C91.4,323.2,89.6,325,87.4,325z
+	"/>
+<path class="st1" d="M130.9,325h-21.9c-2.2,0-4-1.8-4-4v-9.3c0-2.2,1.8-4,4-4h21.9c2.2,0,4,1.8,4,4v9.3
+	C134.9,323.2,133.1,325,130.9,325z"/>
+<path class="st1" d="M174.6,325h-21.9c-2.2,0-4-1.8-4-4v-9.3c0-2.2,1.8-4,4-4h21.9c2.2,0,4,1.8,4,4v9.3
+	C178.6,323.2,176.8,325,174.6,325z"/>
+<path d="M117.6,36.5H80.3c-1.4,0-2.5-1.1-2.5-2.5v0c0-1.4,1.1-2.5,2.5-2.5h37.3c1.4,0,2.5,1.1,2.5,2.5v0
+	C120.1,35.4,118.9,36.5,117.6,36.5z"/>
+<circle cx="65.2" cy="34" r="2.5"/>
+<circle cx="98.6" cy="18.1" r="4.6"/>
+<rect x="41.9" y="69.3" class="st6" width="134" height="11.3"/>
+<text transform="matrix(1 0 0 1 41.9296 79.1895)" class="st1 st7 st8">Find events</text>
+</svg>
