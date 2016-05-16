@@ -1,0 +1,80 @@
+#u1533
+{
+	background-color: transparent;
+}
+
+#u1533:hover
+{
+	background: transparent url("../images/media%20icon%201%20active-u1533-r-fr.png") no-repeat center center;
+}
+
+#u1547
+{
+	background-color: transparent;
+}
+
+#u1547:hover
+{
+	background: transparent url("../images/media%20icon%202%20active-u1547-r-fr.png") no-repeat left top;
+}
+
+#u1554
+{
+	background-color: transparent;
+}
+
+#u1554:hover
+{
+	background: transparent url("../images/media%20icon%203%20active-u1554-r-fr.png") no-repeat left top;
+}
+
+#u1554_img:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u1568
+{
+	background-color: transparent;
+}
+
+#u1568:hover
+{
+	background: transparent url("../images/media%20icon%204%20active-u1568-r-fr.png") no-repeat left top;
+}
+
+#u1582
+{
+	background-color: transparent;
+}
+
+#u1582:hover
+{
+	background: transparent url("../images/media%20icon%205%20active-u1582-r-fr.png") no-repeat left top;
+}
+
+#u1603
+{
+	background-color: transparent;
+}
+
+#u1603:hover
+{
+	background: transparent url("../images/media%20icon%206%20active-u1603-r-fr.png") no-repeat left top;
+}
+
+#u1533:active,#u1547:active,#u1554:active,#u1568:active,#u1582:active,#u1603:active
+{
+	background-image: none;
+	background-color: transparent;
+}
+
+#u1533_img:hover,#u1547_img:hover,#u1568_img:hover,#u1582_img:hover,#u1603_img:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+

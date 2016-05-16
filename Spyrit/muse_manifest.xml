@@ -1,0 +1,67 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.spyrit.com" resolutions="1x" timestamp="1463419966848">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="522667972" ref="index"/>
+    <file name="index.css" crc="3859467433" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="header background.jpg" crc="3785386718" ref="index"/>
+    <file name="logo.png" crc="4110503790" seo="true" ref="index"/>
+    <file name="spyritlogo 2-02.png" crc="78760131" seo="true" ref="index"/>
+    <file name="u462-4.png" crc="535708254" ref="index"/>
+    <file name="u15874-4.png" crc="397426368" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="app store.png" crc="3830104603" seo="true" ref="index"/>
+    <file name="google play.png" crc="4276730070" seo="true" ref="index"/>
+    <file name="overview.png" crc="46982260" seo="true" ref="index"/>
+    <file name="map.png" crc="449483209" seo="true" ref="index"/>
+    <file name="media icon 1 active-u1533-r-fr.png" crc="284121770" ref="index"/>
+    <file name="media icon 1.png" crc="4127212808" seo="true" ref="index"/>
+    <file name="media icon 2 active-u1547-r-fr.png" crc="34458367" ref="index"/>
+    <file name="media icon 2.png" crc="455102661" seo="true" ref="index"/>
+    <file name="media icon 3 active-u1554-r-fr.png" crc="4186305439" ref="index"/>
+    <file name="media icon 3.png" crc="4128734258" seo="true" ref="index"/>
+    <file name="media icon 4 active-u1568-r-fr.png" crc="3917042810" ref="index"/>
+    <file name="media icon 4.png" crc="4267529270" seo="true" ref="index"/>
+    <file name="media icon 5 active-u1582-r-fr.png" crc="275021503" ref="index"/>
+    <file name="media icon 5.png" crc="4176810485" seo="true" ref="index"/>
+    <file name="media icon 6 active-u1603-r-fr.png" crc="4028822226" ref="index"/>
+    <file name="media icon 6.png" crc="4172636802" seo="true" ref="index"/>
+    <file name="feature icons-01.png" crc="211542929" seo="true" ref="index"/>
+    <file name="feature icons-02.png" crc="4012408354" seo="true" ref="index"/>
+    <file name="feature icons-03.png" crc="3936898688" seo="true" ref="index"/>
+    <file name="feature icons-04.png" crc="4210965675" seo="true" ref="index"/>
+    <file name="feature icons-05.png" crc="273678056" seo="true" ref="index"/>
+    <file name="feature icons-06.png" crc="4286120114" seo="true" ref="index"/>
+    <file name="layer 0.png" crc="54471082" seo="true" ref="index"/>
+    <file name="layer 1.png" crc="3904756995" seo="true" ref="index"/>
+    <file name="layer 2.png" crc="3854900664" seo="true" ref="index"/>
+    <file name="search.png" crc="4017416973" seo="true" ref="index"/>
+    <file name="reviews.png" crc="3963738831" seo="true" ref="index"/>
+    <file name="discussions.png" crc="324345540" seo="true" ref="index"/>
+    <file name="coversations 2.png" crc="4083234717" seo="true" ref="index"/>
+    <file name="refine search 1.png" crc="3765779862" seo="true" ref="index"/>
+    <file name="refine search 2.png" crc="442732025" seo="true" ref="index"/>
+    <file name="now playing.png" crc="212746663" seo="true" ref="index"/>
+    <file name="log in.png" crc="311652952" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="butt blur-u7762-fr.png" crc="3760157246" ref="index"/>
+    <file name="download button big-active-u12948-r-fr.png" crc="4196325996" ref="index"/>
+    <file name="download button big.png" crc="3935525466" seo="true" ref="index"/>
+    <file name="blank.png" crc="3771359341" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="131703297" seo="true" mt="1463419965087" redirect="true"/>
+</manifest>
